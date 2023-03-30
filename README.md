@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙋‍♂️, I'm Ameya Shinde</h1>
+<h1 align="center"> 🙋‍♂️, I'm Ameya Shinde</h1>
 <h3 align="center">As a software developer, my expertise lies in Java Spring Boot and MySQL. With a passion for developing robust and scalable software solutions, I am well-versed in web-based application development, API design, and database management. I enjoy collaborating with other developers and stakeholders to identify and implement solutions to complex problems. If you're looking for a skilled and dedicated software developer to join your team, let's connect!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameya-shinde" alt="ameya-shinde" /></a> </p>
