@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, DSA**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ameya-shinde-035250196/**
+- 📫 How to reach me **https://www.linkedin.com/in/ameya-shinde/**
 
 - 📄 Know about my Resume [https://docs.google.com/document/d/1Hsrve8nt1KF6zgcN0lIbWbJMq2ia3NIUwtbsJIi5npc/edit?usp=sharing](https://docs.google.com/document/d/1Hsrve8nt1KF6zgcN0lIbWbJMq2ia3NIUwtbsJIi5npc/edit?usp=sharing)
 
