@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ameya-Shinde](https://github.com/Ameya-Shinde)
+- 👨‍💻 All of my projects are available at [https://github.com/Ameya-Shinde/SpringBoot](https://github.com/Ameya-Shinde)
 
 - 💬 Ask me about **Java, Spring Boot, DSA**
 
