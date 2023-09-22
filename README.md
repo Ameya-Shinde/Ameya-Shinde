@@ -3,7 +3,6 @@
 <h3 align="center">As a software developer, my expertise lies in Java Spring Boot, MySQL, HTML5, CSS and JavaScript. With a passion for developing robust and scalable software solutions, I am well-versed in web-based application development, API design, and database management. If you're looking for a skilled and dedicated software developer to join your team, let's connect!</h3>
 
 
-
 - 🌱 I’m currently learning **Frontend Development**
 
 - 👨‍💻 All of my backend projects are available at [https://github.com/Ameya-Shinde/SpringBoot]
